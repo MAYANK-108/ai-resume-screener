@@ -7,7 +7,7 @@ Built as part of my AI Internship at **IncodeVision**.
 ---
 
 ## 🚀 Live Demo
-> Deploy link will be added after Streamlit Cloud deployment
+> https://mayank-ai-resume-screener.streamlit.app
 
 ---
 
